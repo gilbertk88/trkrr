@@ -1,0 +1,3 @@
+Consumer loan calculator;
+Mortgage calculator;
+Calculator of car loans;
