@@ -4,7 +4,8 @@ class TrkrrLoader extends MvcPluginLoader {
 
     var $db_version = '1.0';
     var $tables = array();
-
+ 
+ 
     function activate() {
     
         // This call needs to be made to activate this app within WP MVC
